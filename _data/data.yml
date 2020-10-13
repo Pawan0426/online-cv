@@ -14,16 +14,16 @@ sidebar:
     # Sidebar links
     email: paawaan.singh@gmail.com
     phone: +358 4017 94282
-    website: blog.webjeda.com #do not add http://
+
     linkedin: Pawan Singh
     github: Pawan0426
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    
+
+  
+  
+  
+
+
 
     languages:
       - idiom: Nepali
@@ -67,7 +67,7 @@ education:
         develop skills matching the growing need for managment control and accounting
         of internationally operating firms.
           - Thesis: IFRS and Earning management in Nepalese banks
-          - Bullet point
+
     - degree: BBA 
       university: Centria University of Applied Science
       time: 2010 - 2013
@@ -76,7 +76,7 @@ education:
         marketing, accounting, economics, management, intercultural competences 
         and languages. During the second year studies can move to more advance level.
           - Bullet point
-          - Bullet point
+          
 experiences:
     - role: Data Science and Machine Learning Program
       time: 2020 - Present
@@ -85,73 +85,27 @@ experiences:
         It's a six months intensive program organized by Integrify. Where student 
         work with real world data and hone their skills on data science and machine
         learning.
-          - Bullet point
-          - Bullet point
+          - Machine Learning
+          - Deep Learning
     - role: Data Analyst with Python
       time: 2019 - 2020
       company: Google, London
       details: The Shortcut, Helsinki
         It was a three months EDA (Exploratory data analysis) program. Where we learn
         how to use python for EDA.
-          - Bullet point
-          - Bullet point
+          - Python
+          - SQL
     - role: Board Member
       time: 2015 - 2016
       company: Api Oy, Kokkola, Finland
       details: |
         After graduation we open wine and dine restaurant in Kokkola. There I worked
-        as a board member.
-          - Bullet point
-          - Bullet point
+        as a board member.         
 projects:
-    title: Projects
+    title: Kaggle-House-price-prediction
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+      In this project I try to predict the sale price of the house. I use Machine 
+      learning algorithm to predict the sale price.
 skills:
     title: Skills &amp; Proficiency
 
@@ -163,16 +117,6 @@ skills:
         level: 90%
 
       - name: Power-BI
-        level: 75%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
+        level:75%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
