@@ -100,7 +100,7 @@ experiences:
       company: Api Oy, Kokkola, Finland
       details: |
         After graduation we open wine and dine restaurant in Kokkola. There I worked
-        as a board member.         
+        as a board member         
 projects:
     title: Kaggle-House-price-prediction
     intro: >
@@ -117,6 +117,6 @@ skills:
         level: 90%
 
       - name: Power-BI
-        level:75%
+        level: 75%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
